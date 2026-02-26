@@ -1,3 +1,1 @@
-## 👋 Hi there
-
-- 💻 Job: Informatik Lernender (Plattformentwicklung)
+![Header](./Github-banner.png)
